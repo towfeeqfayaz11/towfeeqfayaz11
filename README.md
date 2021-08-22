@@ -10,12 +10,12 @@
 **Languages and Tools:**  
 
 <p align="left"> 
-<a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+<a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/> 
 </a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="bash" width="40" height="40"/> </a> 
+<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="bash" width="45" height="45"/> </a> 
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
 </a> 
-<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/pocoo_flask/images/302701ab-3620-49c9-915e-7a674b3d7e90.svg" alt="flask" width="40" height="40"/> 
+<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://qphs.fs.quoracdn.net/main-qimg-ad2e0a65df473c4af55ad8c9699bbfd8.webp" alt="flask" width="40" height="40"/> 
 </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </a> 
