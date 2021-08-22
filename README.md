@@ -25,11 +25,13 @@
 </a>
 <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
 </a> 
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a> 
-<a href="https://www.ansible.com/" target="_blank" <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"> alt="ansibble" width="40" height="40"/>
+  
+<a href="https://www.ansible.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansibble" width="40" height="40"/>
 </a>
-<a href="https://www.chef.io//" target="_blank" <img src="https://www.vectorlogo.zone/logos/chefio/chefio-icon.svg"> alt="ansibble" width="40" height="40"/>
+<a href="https://www.chef.io//" target="_blank"> <img src="https://www.vectorlogo.zone/logos/chefio/chefio-icon.svg" alt="ansibble" width="40" height="40"/>
 </a>
 </p>
 
