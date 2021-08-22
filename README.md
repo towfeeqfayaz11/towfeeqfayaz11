@@ -42,7 +42,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=towfeeqfayaz11&" alt="towfeeqfayaz11" /></p>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Know more about me at:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/towfeeq11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/towfeeq11/" height="40" width="40" /></a>
 <a href="https://medium.com/@towfeeqpandith" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@towfeeqpandith" height="40" width="40" /></a>
