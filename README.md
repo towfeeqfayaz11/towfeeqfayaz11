@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi, I'm Towfeeq Fayaz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1> 
-<h3 align="center">I am an Enthusiastic DevOps Engineer.</h3>
+<h3 align="center">Hi, I'm Towfeeq Fayaz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h3> 
+<h4 align="center">I am an Enthusiastic DevOps Engineer.<img src="https://komarev.com/ghpvc/?username=towfeeqfayaz11&label=Views&color=blue&style=plastic" alt="towfeeqfayaz11" /></h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=towfeeqfayaz11&label=Views&color=blue&style=plastic" alt="towfeeqfayaz11" /> </p>
 
@@ -37,7 +37,8 @@
 
 <br/>
 <br/>
-**📈 My github stats**
+ 
+<h3> 📈 My github stats </h4>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=towfeeqfayaz11&show_icons=true&locale=en&layout=compact" alt="towfeeqfayaz11" /></p>
 <br/>
