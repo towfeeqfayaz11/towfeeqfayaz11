@@ -1,7 +1,7 @@
 
 <h3 align="center">Hi, I'm Towfeeq Fayaz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h3> 
-<h4 align="center">I am an Enthusiastic DevOps Engineer.</h4>
-
+<h4 align="center">I am an Enthusiastic Engineer.</h4>
+<h4 align="center">I am interested in competetive coding and love webdevelopment.</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=towfeeqfayaz11&label=Views&color=blue&style=plastic" alt="towfeeqfayaz11" /> </p>
 
 <br/>
