@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I’m **Towfeeq Fayaz** ([@towfeeqfayaz](https://github.com/towfeeqfayaz11))
 
 ## About Me
-I’m a Fullstack developer with over **4 years of experience** in building **scalable, efficient applications**.
+I’m a Fullstack Developer with over **4 years of experience** in building **scalable, efficient applications**.
 I specialize in **Backend Development**, and I'm constantly improving my skills to stay up-to-date with the latest tools and technologies.
 
 ## 🔧 Technologies & Tools
