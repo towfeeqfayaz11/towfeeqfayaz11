@@ -17,9 +17,7 @@ I specialize in **Backend Development**, and I'm constantly improving my skills 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=towfeeqfayaz11&" alt="towfeeqfayaz11" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=towfeeqfayaz11&show_icons=true&locale=en&layout=compact" alt="towfeeqfayaz11" /></p>
 
-<a href='https://github.com/towfeeqfayaz11/github-stats-transparent'>
-![Stats Overview](https://raw.githubusercontent.com/towfeeqfayaz11/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/towfeeqfayaz11/github-stats-transparent/output/generated/languages.svg)
+![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=towfeeqfayaz11)
 
 ## 📬 How to Reach Me
 - **Email**: [towfeeqpandith@gmail.com](mailto:towfeeqpandith@gmail.com)
