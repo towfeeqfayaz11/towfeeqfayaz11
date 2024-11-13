@@ -5,12 +5,11 @@ I’m a Fullstack Developer with over **4 years of experience** in building **sc
 I specialize in **Backend Development**, and I'm constantly improving my skills to stay up-to-date with the latest tools and technologies.
 
 ## 🔧 Technologies & Tools
-- **Languages**: Python, Java, GoLang
-- **Databases**: MySQL, MongoDB
+- **Languages**: Python, Java, C, GoLang
+- **Databases**: MySQL, MongoDB, Redis
 - **Tools**: Docker, Kubernetes, Jenkins, Ansible, Chef, Git, CI/CD
 - **Cloud**: AWS
 - **Frameworks**: Flask, Spring Boot
-
 
 ### 📈 GitHub Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=towfeeqfayaz11&show_icons=true&include_all_commits=true&theme=radical" alt="Towfeeq's github stats" />
