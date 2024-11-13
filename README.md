@@ -1,14 +1,15 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I’m **Towfeeq Fayaz** ([@towfeeqfayaz](https://github.com/towfeeqfayaz11))
 
-I’m a Fullstack developer with over **4 years of experience** in building **scalable, efficient applications**. I specialize in **Application Backend Development**, and I'm constantly improving my skills to stay up-to-date with the latest tools and technologies.
+## About Me:
+I’m a Fullstack developer with over **4 years of experience** in building **scalable, efficient applications**. I specialize in **Backend Development**, and I'm constantly improving my skills to stay up-to-date with the latest tools and technologies.
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: Java, Node.js, Python
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Tools**: Docker, Kubernetes, Jenkins, Git, CI/CD
-- **Cloud**: AWS, Azure
-- **Frameworks**: Spring Boot, Express.js
+- **Languages**: Python, Java, GoLang
+- **Databases**: MySQL, MongoDB
+- **Tools**: Docker, Kubernetes, Jenkins, Ansible, Chef, Git, CI/CD
+- **Cloud**: AWS
+- **Frameworks**: Flask, Spring Boot
 
 ## 🌱 Current Focus
 
@@ -28,11 +29,6 @@ I’m open to collaborating on **open-source projects**, exchanging ideas, or so
 - **Email**: [towfeeqpandith@gmail.com](mailto:towfeeqpandith@gmail.com)
 - **LinkedIn**: [TowfeeqFayaz](https://www.linkedin.com/in/towfeeq11/)
 
-## 💬 Fun Fact
-
-When I'm not coding, I love exploring **new tech trends**, reading, and sharing knowledge through blogs and talks!
-
----
 
 ### 📈 GitHub Stats
 
@@ -40,9 +36,8 @@ When I'm not coding, I love exploring **new tech trends**, reading, and sharing 
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=towfeeqfayaz11&" alt="towfeeqfayaz11" />
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=towfeeqfayaz11&show_icons=true&locale=en&layout=compact" alt="towfeeqfayaz11" /></p>
----
 
-### 🛠️ GitHub Profile Highlights
+## 📬 How to Reach Me
 
-- 📂 **Repositories**: Check out the projects I’ve built and contributed to.
-- 🌍 **Open Source**: Actively contributing to the open-source community.
+- **Email**: [towfeeqpandith@gmail.com](mailto:towfeeqpandith@gmail.com)
+- **LinkedIn**: [TowfeeqFayaz](https://www.linkedin.com/in/towfeeq11/)
