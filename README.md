@@ -14,10 +14,11 @@ I specialize in **Backend Development**, and I'm constantly improving my skills 
 
 ### 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=towfeeqfayaz11&show_icons=true&theme=radical)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=towfeeqfayaz11&" alt="towfeeqfayaz11" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=towfeeqfayaz11&show_icons=true&locale=en&layout=compact" alt="towfeeqfayaz11" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=towfeeqfayaz11&" alt="towfeeqfayaz11" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=towfeeqfayaz11&show_icons=true&locale=en&layout=compact" alt="towfeeqfayaz11" />
 
-![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=towfeeqfayaz11)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=towfeeqfayaz11&show_icons=true&include_all_commits=true&theme=radical" alt="Towfeeq's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=towfeeqfayaz11&layout=compact&theme=radical" />
 
 ## 📬 How to Reach Me
 - **Email**: [towfeeqpandith@gmail.com](mailto:towfeeqpandith@gmail.com)
