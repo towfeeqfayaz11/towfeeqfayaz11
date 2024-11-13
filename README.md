@@ -13,10 +13,6 @@ I specialize in **Backend Development**, and I'm constantly improving my skills 
 
 
 ### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=towfeeqfayaz11&show_icons=true&theme=radical)
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=towfeeqfayaz11&" alt="towfeeqfayaz11" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=towfeeqfayaz11&show_icons=true&locale=en&layout=compact" alt="towfeeqfayaz11" />
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=towfeeqfayaz11&show_icons=true&include_all_commits=true&theme=radical" alt="Towfeeq's github stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=towfeeqfayaz11&layout=compact&theme=radical" />
 
