@@ -1,7 +1,8 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I’m **Towfeeq Fayaz** ([@towfeeqfayaz](https://github.com/towfeeqfayaz11))
 
 ## About Me:
-I’m a Fullstack developer with over **4 years of experience** in building **scalable, efficient applications**. I specialize in **Backend Development**, and I'm constantly improving my skills to stay up-to-date with the latest tools and technologies.
+I’m a Fullstack developer with over **4 years of experience** in building **scalable, efficient applications**.
+I specialize in **Backend Development**, and I'm constantly improving my skills to stay up-to-date with the latest tools and technologies.
 
 ## 🔧 Technologies & Tools
 - **Languages**: Python, Java, GoLang
@@ -9,10 +10,6 @@ I’m a Fullstack developer with over **4 years of experience** in building **sc
 - **Tools**: Docker, Kubernetes, Jenkins, Ansible, Chef, Git, CI/CD
 - **Cloud**: AWS
 - **Frameworks**: Flask, Spring Boot
-
-## 📬 How to Reach Me
-- **Email**: [towfeeqpandith@gmail.com](mailto:towfeeqpandith@gmail.com)
-- **LinkedIn**: [TowfeeqFayaz](https://www.linkedin.com/in/towfeeq11/)
 
 
 ### 📈 GitHub Stats
