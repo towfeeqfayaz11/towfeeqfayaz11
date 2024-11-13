@@ -17,7 +17,7 @@ I’m a Fullstack developer with over **4 years of experience** in building **sc
 
 ### 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=towfeeqfayaz11&show_icons=true&theme=radical)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=towfeeqfayaz11" alt="towfeeqfayaz11" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=towfeeqfayaz11&" alt="towfeeqfayaz11" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=towfeeqfayaz11&show_icons=true&locale=en&layout=compact" alt="towfeeqfayaz11" /></p>
 
 ## 📬 How to Reach Me
