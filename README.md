@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I’m **Towfeeq Fayaz** ([@towfeeqfayaz](https://github.com/towfeeqfayaz11))
 
-## About Me:
+## About Me
 I’m a Fullstack developer with over **4 years of experience** in building **scalable, efficient applications**.
 I specialize in **Backend Development**, and I'm constantly improving my skills to stay up-to-date with the latest tools and technologies.
 
@@ -16,6 +16,10 @@ I specialize in **Backend Development**, and I'm constantly improving my skills 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=towfeeqfayaz11&show_icons=true&theme=radical)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=towfeeqfayaz11&" alt="towfeeqfayaz11" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=towfeeqfayaz11&show_icons=true&locale=en&layout=compact" alt="towfeeqfayaz11" /></p>
+
+<a href='https://github.com/towfeeqfayaz11/github-stats-transparent'>
+![Stats Overview](https://raw.githubusercontent.com/towfeeqfayaz11/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/towfeeqfayaz11/github-stats-transparent/output/generated/languages.svg)
 
 ## 📬 How to Reach Me
 - **Email**: [towfeeqpandith@gmail.com](mailto:towfeeqpandith@gmail.com)
